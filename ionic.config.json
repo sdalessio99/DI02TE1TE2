@@ -1,0 +1,7 @@
+{
+  "name": "DI2TE1App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
